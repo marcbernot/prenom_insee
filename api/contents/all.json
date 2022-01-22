@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-01-22T17:38:31.196314Z",
+      "created": "2022-01-22T17:42:25.040424Z",
       "format": null,
-      "last_modified": "2022-01-22T17:38:29.696240Z",
+      "last_modified": "2022-01-22T17:41:23.952458Z",
+      "mimetype": null,
+      "name": "nat2020.pq",
+      "path": "nat2020.pq",
+      "size": 1684747,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-01-22T17:42:25.040424Z",
+      "format": null,
+      "last_modified": "2022-01-22T17:42:23.724420Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-01-22T17:38:31.196314Z",
+      "created": "2022-01-22T17:42:25.044424Z",
       "format": null,
-      "last_modified": "2022-01-22T17:37:27.124738Z",
+      "last_modified": "2022-01-22T17:41:23.952458Z",
       "mimetype": null,
       "name": "python.ipynb",
       "path": "python.ipynb",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-01-22T17:38:31.196314Z",
+  "created": "2022-01-22T17:42:25.044424Z",
   "format": "json",
-  "last_modified": "2022-01-22T17:38:31.196314Z",
+  "last_modified": "2022-01-22T17:42:25.044424Z",
   "mimetype": null,
   "name": "",
   "path": "",
